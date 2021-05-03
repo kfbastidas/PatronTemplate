@@ -1,8 +1,5 @@
-co\mycompany\restaurant\server\infra\ServerSocketRestaurant.class
-co\mycompany\restaurant\server\access\IPlatoRepository.class
-co\mycompany\restaurant\server\domain\services\RestauranteService.class
-co\mycompany\restaurant\server\access\RestauranteRepositoryImplArrays.class
 co\mycompany\restaurant\server\access\Factory.class
-co\mycompany\restaurant\server\domain\services\PlatoService.class
+co\mycompany\restaurant\server\infra\ServerSocketRestaurant.class
+co\mycompany\restaurant\server\domain\services\RestauranteService.class
 co\mycompany\restaurant\server\access\IRestauranteRepository.class
-co\mycompany\restaurant\server\access\PlatoRepositoryImplArrays.class
+co\mycompany\restaurant\server\access\RestauranteRepositoryImplArrays.class
