@@ -1,0 +1,8 @@
+co\mycompany\restaurant\commons\infra\JsonError.class
+co\mycompany\restaurant\commons\domain\DiaSemana.class
+co\mycompany\restaurant\commons\infra\Protocol.class
+co\mycompany\restaurant\commons\domain\Componente.class
+co\mycompany\restaurant\commons\domain\TipoComponente.class
+co\mycompany\restaurant\commons\infra\Parameter.class
+co\mycompany\restaurant\commons\infra\Utilities.class
+co\mycompany\restaurant\commons\domain\Plato.class
